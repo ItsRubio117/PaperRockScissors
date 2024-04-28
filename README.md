@@ -1,0 +1,1 @@
+This is one of the first projects that I've created using Swift in codecademy. Though not my best work, that's going to change within the upcoming months the more time I spend learning and coding with Swift. Stay tuned! 
